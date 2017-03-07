@@ -9,7 +9,7 @@ This page describes the usage of "BlackHole" algorithm implementation.
 **Installation & Running**
 
 - Download the BlackHole file in github.
-  * wget https://github.com/kujungmul/BlackHole/archive/master.zip
+  * wget https://github.com/kujungmul/BlackHole2/archive/master.zip
 
 - Follow these commands
   * unzip master.zip
